@@ -1,0 +1,8 @@
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'dirt-ui-icon',
+  templateUrl: './icon.component.html',
+  styleUrls: ['./icon.component.scss'],
+})
+export class IconComponent {}
